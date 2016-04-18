@@ -1,0 +1,40 @@
+{
+  "types": [
+    {
+      "id": 0,
+      "category": 0,
+      "name": "personal",
+      "description": "Fireworks intended for recreational use during holiday celebrations"
+    },
+    {
+      "id": 1,
+      "category": 0,
+      "name": "public",
+      "description": "Fireworks intended for use in public areas"
+    },
+    {
+      "id": 2,
+      "category": 0,
+      "name": "private",
+      "description": "Fireworks intended for use by yourself in a secret setting"
+    },
+    {
+      "id": 3,
+      "category": 1,
+      "name": "small",
+      "description": "For destroying small things"
+    },
+    {
+      "id": 4,
+      "category": 1,
+      "name": "medium",
+      "description": "For destroying medium things"
+    },
+    {
+      "id": 5,
+      "category": 1,
+      "name": "large",
+      "description": "For destroying large things"
+    }
+  ]
+}
